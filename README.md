@@ -1,4 +1,6 @@
-# Introduction to Dask README
+# Introduction to Dask README 
+
+> Used for demo in pyconjp 2017 talk
 
 This repository is for providing a jupyter notebook for introducing the basics of dask.
 Dask is a parallel data processing library for python with strong intregration with Pandas and numpy.
