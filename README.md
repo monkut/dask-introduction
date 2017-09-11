@@ -3,7 +3,7 @@
 > Used for demo in pyconjp 2017 talk
 > Talk available at: https://youtu.be/fJafLN8oCf0
 
-The setup steps using EC2 available at: 
+The cluster setup steps for using EC2 available at: 
 https://gist.github.com/monkut/025e720d703e4d220b6d15496ba3756a
 
 This repository is for providing a jupyter notebook for introducing the basics of dask.
